@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advicer/static/css/main.4f407f72.css",
+    "main.js": "/advicer/static/js/main.dc99d6bf.js",
+    "index.html": "/advicer/index.html",
+    "main.4f407f72.css.map": "/advicer/static/css/main.4f407f72.css.map",
+    "main.dc99d6bf.js.map": "/advicer/static/js/main.dc99d6bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f407f72.css",
+    "static/js/main.dc99d6bf.js"
+  ]
+}
